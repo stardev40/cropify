@@ -1,1 +1,21 @@
-config.env 
+# Dependency files
+package.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment files
+.env
+config.env
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
